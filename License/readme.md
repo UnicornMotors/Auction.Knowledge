@@ -1,4 +1,8 @@
 # License Requirements
+Education: https://www.dealertraining.org/dealers-license/louisiana-dealer-license.html
+
+
+from:
 [https://www.copart.com/doRegistration?intcmp=web_hp_default_reg](https://www.copart.com/doRegistration)
 
 Quote:
