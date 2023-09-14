@@ -1,4 +1,8 @@
-# License Requirements
+# Fuck All of This! We're going to sell vehicles Online, for Cryptocurrency, with our assets offshore & protected, and they can't stop us.
+Competitor: Carvana.com
+
+
+## Archive: License Requirements
 Education: https://www.dealertraining.org/dealers-license/louisiana-dealer-license.html
 
 
