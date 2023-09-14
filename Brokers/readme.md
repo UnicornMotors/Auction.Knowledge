@@ -7,3 +7,4 @@ Guide:
 - https://www.copart.com/content/us/en/landing-page/about-brokers/
 
 index:
+- https://www.autobidmaster.com/en/lp3
