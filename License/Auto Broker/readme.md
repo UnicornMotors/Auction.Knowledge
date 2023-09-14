@@ -7,3 +7,6 @@ Home: https://lumvc.louisiana.gov/wp-content/uploads/2022/09/Initial-Dealer-Pack
 
 guide:
 - https://www.jwsuretybonds.com/states/louisiana/auto-dealer-license
+
+### Car Auction License
+https://www.jwsuretybonds.com/blog/car-auction-license-louisiana
