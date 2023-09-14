@@ -1,4 +1,9 @@
 # Auction Broker (intermediary who has a Dealer license)
 
-Guide
-https://www.copart.com/brokersmarketmakers/1/
+Home:
+- https://www.copart.com/brokersmarketmakers/1/
+
+Guide:
+- https://www.copart.com/content/us/en/landing-page/about-brokers/
+
+index:
