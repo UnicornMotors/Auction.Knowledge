@@ -3,6 +3,8 @@ Competitor: Carvana.com
 
 
 ## Archive: License Requirements
+Guide: https://www.copart.com/Content/us/en/Licensing/Index
+
 Education: https://www.dealertraining.org/dealers-license/louisiana-dealer-license.html
 
 
